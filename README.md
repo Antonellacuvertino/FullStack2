@@ -1,2 +1,2 @@
 # FullStack2
-actividades de clases y apuntes 2/2025
+trabajos practicos clase fullstaxk utilizando html y CSS
