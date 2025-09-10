@@ -1,0 +1,25 @@
+/* Fuente estilo gótico */
+@import url('https://fonts.googleapis.com/css2?family=UnifrakturCook:wght@700&display=swap');
+
+.gothic-font {
+  font-family: 'UnifrakturCook', cursive;
+}
+
+/* Paleta personalizada */
+.text-pink { color: #ff4da6 !important; }
+.bg-black { background-color: #000 !important; }
+.border-pink { border-color: #ff4da6 !important; }
+
+/* Botón personalizado */
+.btn-pink {
+  background-color: #ff4da6;
+  color: #fff;
+  border-radius: 30px;
+  border: 2px solid #ffb3d9;
+  transition: 0.3s;
+}
+.btn-pink:hover {
+  background-color: #cc0077;
+  border-color: #ff4da6;
+  transform: scale(1.05);
+}
